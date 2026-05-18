@@ -26,16 +26,20 @@ Long-term customers are more likely to stay loyal.
 
 5. What actions can improve customer retention?
 
+
 Suggested actions based on dashboard insights:
 Offer discounts or loyalty rewards for new customers
 Encourage long-term contracts
 Improve customer support services
 Promote value-added services like tech support and online security
 
-https://github.com/nisha150411/FUTURE_DS_02/commit/8334f71da462c3daa8b35d5f26ed0726a33414a3
+
 
 Tools Used
 
 Microsoft Excel (Dashboard creation, Pivot Tables, Charts)
 Data Cleaning & Analysis
 Interactive KPI Cards and Visualizations
+
+
+https://github.com/nisha150411/FUTURE_DS_02/commit/8334f71da462c3daa8b35d5f26ed0726a33414a3
